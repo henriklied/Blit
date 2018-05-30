@@ -1,5 +1,7 @@
-Blit
+Blit for Pillow
 ====
+
+**This fork has had some minor adjustments made to make it work with Pillow, rather than PIL.**
 
 Simple pixel-composition library for Python.
 
