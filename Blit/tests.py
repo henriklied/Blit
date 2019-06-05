@@ -4,7 +4,7 @@ Run as a module, like this:
     python -m Blit.tests
 """
 import unittest
-from PIL import image
+from PIL import Image
 
 from . import Bitmap, Color, Layer, blends, adjustments, utils, photoshop
 
